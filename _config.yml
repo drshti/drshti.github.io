@@ -7,10 +7,10 @@ url: "https://vyzboy92.github.io" # the base hostname & protocol for your site e
 # User settings
 username: DRSHTI
 user_description: Deep Rectified System for High-speed Tracking in Images is an open-source object detection API that can be used by anyone free of cost to perform object detection on normal images and vehicle detection in aerial images. Its aimed at the generic user who wants to step into the A.I based computer vision domain and the portal helps to form a basic intuition of the possibilities this field offers.
-email: vsmo92@gmail.com
-linkedin_username: "https://www.linkedin.com/in/vysakh-s-mohan/"
-github_username: "https://github.com/vyzboy92"
-gplus_username: "https://plus.google.com/+VysakhMohan_92"
+#email: vsmo92@gmail.com
+#linkedin_username: "https://www.linkedin.com/in/vysakh-s-mohan/"
+#github_username: "https://github.com/vyzboy92"
+#gplus_username: "https://plus.google.com/+VysakhMohan_92"
 
 # Google-analytics
 google-analytics:
